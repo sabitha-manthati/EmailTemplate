@@ -1,0 +1,83 @@
+.App {
+  width:100vw;
+  height: 100vh;
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+.Sidebar{
+  height: 100%;
+ 
+  background-color: #334257;
+
+}
+.image{
+  margin-left: 50px;
+  margin-top:40px;
+}
+.title
+{
+ color: white;
+ margin-left: 43px;
+ margin-top: auto;
+ font-size: 10px;
+}
+.listitems{
+  list-style-type: none;
+  color: white;
+  font-size: 12px;
+  padding-top: 20px;
+}
+.l1{
+  padding: 10px;
+  margin-right: 50px;
+}
+/* Navbar */
+#txt{
+ margin-left: 330px;
+}
+.Compose{
+  background-color: #DDDDDD;
+  height: 100%;
+
+}
+.c-item{
+  list-style-type: none;
+}
+#f1{
+  color: #50CB93;
+}
+#f2{
+  color: #F8485E;
+}#f3{
+  color: 055052;
+}#f4{
+  color:#53B8BB;
+}#f5{
+  color:#FFAA4C;
+}
+
+#i4{
+  margin-left: 400px;
+}
+#la{
+  margin-left: 520px;
+  size: 30px;
+}
+#la,#ra{
+  border: 1px solid gray;
+  padding: 10x;
+ 
+}
+#dropdownMenuButton1{
+  margin-left: 14px;
+}
+#dropdownMenuLink{
+ color: white;
+ font-size: 12px;
+}
+#cmp{
+  margin-left: 30px;
+  width: 200px;
+}
